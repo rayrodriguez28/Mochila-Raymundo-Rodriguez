@@ -1,0 +1,10 @@
+Link encap: 
+Direc. inet:10.0.2.15  
+Difus.:10.0.2.255  
+Másc:255.255.255.0
+
+mac address: Ethernet  direcciónHW 08:00:27:c0:68:84 
+
+ip publica: 189.241.129.xxx
+
+Es la misma ip pública
